@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+
+#root {
+  color: #fff;
+  height: 800px;
+  text-align: center;
+  padding-top: 200px;
+}
